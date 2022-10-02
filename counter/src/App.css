@@ -1,0 +1,73 @@
+body {
+  background-color: rgb(110, 91, 63);
+}
+
+* {
+  outline: none;
+  border: none;
+}
+.plusButton {
+  margin: 5px;
+  color: rgb(49, 42, 33);
+  border-radius: 9px;
+  height: 30px;
+  width: 40px;
+  background-color: rgb(212, 188, 155);
+}
+
+.minusButton {
+  color: rgb(49, 42, 33);
+  border-radius: 9px;
+  height: 30px;
+  width: 40px;
+  background-color: rgb(212, 188, 155);
+}
+
+.showCount {
+  font-weight: bold;
+  font-size: 25px;
+  color: rgb(49, 42, 33);
+  height: 20px;
+}
+
+.inputMax {
+  background-color: rgb(212, 188, 155);
+  border-radius: 9px;
+  height: 30px;
+  width: 100px;
+  color: rgb(49, 42, 33);
+}
+
+.inputMin {
+  margin: 10px;
+  background-color: rgb(212, 188, 155);
+  border-radius: 9px;
+  height: 30px;
+  width: 100px;
+  color: rgb(49, 42, 33);
+}
+
+.inputCount {
+  background-color: rgb(212, 188, 155);
+  border-radius: 9px;
+  height: 30px;
+  width: 100px;
+  color: rgb(49, 42, 33);
+}
+
+.okButton {
+  margin: 10px;
+  background-color: rgb(212, 188, 155);
+  color: rgb(49, 42, 33);
+  border-radius: 9px;
+  height: 36px;
+  width: 50px;
+}
+
+.resetButton {
+  background-color: rgb(212, 188, 155);
+  color: rgb(49, 42, 33);
+  border-radius: 9px;
+  height: 36px;
+  width: 50px;
+}

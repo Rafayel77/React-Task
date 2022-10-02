@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(120, 95, 95);
+}
+
+.search {
+  width: 100%;
+  height: 30px;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 10px;
+  font-weight: bolder;
+  font-size: 20px;
+  background-color: rgb(225, 195, 195);
+  outline: none;
+}
+
+.App {
+  text-align: center;
+  width: 700px;
+  margin: auto;
+}
+
+.show-country {
+  margin-top: 10px;
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(234, 198, 198);
+  text-align: left;
+  border-radius: 20px;
+}
+
+.show {
+  padding: 5px;
+}
+
+.show:hover {
+  border-radius: 30px;
+  background-color: rgb(207, 166, 166);
+}
